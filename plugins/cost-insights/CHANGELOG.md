@@ -1,5 +1,11 @@
 # @backstage/plugin-cost-insights
 
+## 0.5.1
+
+### Patch Changes
+
+- 64c9fd84c: fix breakdown sorting
+
 ## 0.5.0
 
 ### Minor Changes
